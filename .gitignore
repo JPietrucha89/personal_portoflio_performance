@@ -200,4 +200,6 @@ __marimo__/
 .streamlit/
 *.db
 *.db-journal
+.streamlit/*
+
 secrets.toml
